@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+	font-family: cursive;
+	font-size: 55px;
+}
+#listOf li {
+	padding: 5px;
+	margin: 5px;
+	list-style: none;
+	border: 1px solid white;
+	width: 120px;
+	display: block;
+}
+body {
+	background-color: black;
+	color: red;
+	font-family: cursive;
+
+}
+img {
+	height: 18px;
+	width: 12px;
+	padding-left: 30px;
+}
